@@ -24,3 +24,17 @@ var d5 = d4+=1; d5-=2
 console.log (d5);
 
 //
+var num = 46;
+var str = "car";
+console.log (num, str);
+n1 = num *5; console.log (n1, str);
+console.log (n1+str);
+console.log ( "Result is", n1+str);
+var num = 47;
+var str = "bike";
+console.log (num, str);
+var  num2 = 5;
+var res = num * num2;
+console.log ("My new result is:", res, str);
+
+//
