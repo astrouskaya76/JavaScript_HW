@@ -1,6 +1,6 @@
 ## JavaScript_HW
 ### Homework *JavaScript*
-- tesks 1
-- tesks 2
-- tesks 3
-- tests 4
+- tasks 1
+- tasks 2
+- tasks 3
+- tasts 4
